@@ -1,0 +1,37 @@
+Const Plans = {free:  [
+    plan:'FREE',
+    fee :"0"
+    benefit:[" Single User",
+    "5 GB Storage",
+    "Unlimited Public Projects",
+    "Community Access",
+    "Unlimited Private Projects",
+    "Dedicated Phone Support",
+    "Free Subdomain",
+    "Monthly Status Reports",
+  ]], 
+plus : [
+    plan: 'PLUS',  
+    fee :"9" 
+    benefit:[ " 5 Users",
+    "50GB Storage",
+    "Unlimited Public Projects",
+    "Community Access",
+    "Unlimited Private Projects",
+    "Dedicated Phone Support",
+    "Free Subdomain",
+    "Monthly Status Reports",]
+  ],
+ pro : [
+    plan: 'PRO',  
+    fee :"49"
+    benefit:[ " Unlimited Users",
+    "150 GB Storage",
+    "Unlimited Public Projects",
+    "Community Access",
+    "Unlimited Private Projects",
+    "Dedicated Phone Support",
+    "Free Subdomain",
+    "Monthly Status Reports",]
+  ]
+  }
